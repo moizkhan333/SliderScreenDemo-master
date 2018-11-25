@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SliderScreenDemo</string>
+
+
+
+
+
+                <!---onboarding-->
+
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Manager</string>
+    <string name="slide_1_desc">The manager will interact with this system as a caretaker of the business. To keep track of the employees and distributors.</string>
+
+    <string name="slide_2_title">Employee</string>
+    <string name="slide_2_desc">Employee will post and update about his/her activity.</string>
+
+    <string name="slide_3_title">Distributor</string>
+    <string name="slide_3_desc">Distributor will post and update about his/her activity.</string>
+
+</resources>
